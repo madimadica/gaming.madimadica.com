@@ -1,0 +1,198 @@
+{
+  "league": [
+    {
+      "league": {},
+      "shiny_ore": 125,
+      "glowy_ore": 6,
+      "starry_ore": 0
+    },
+    {
+      "league": {},
+      "shiny_ore": 175,
+      "glowy_ore": 7,
+      "starry_ore": 0
+    },
+    {
+      "league": {},
+      "shiny_ore": 175,
+      "glowy_ore": 8,
+      "starry_ore": 0
+    },
+    {
+      "league": {},
+      "shiny_ore": 200,
+      "glowy_ore": 9,
+      "starry_ore": 0
+    },
+    {
+      "league": {},
+      "shiny_ore": 250,
+      "glowy_ore": 10,
+      "starry_ore": 0
+    },
+    {
+      "league": {},
+      "shiny_ore": 275,
+      "glowy_ore": 11,
+      "starry_ore": 0
+    },
+    {
+      "league": {},
+      "shiny_ore": 300,
+      "glowy_ore": 12,
+      "starry_ore": 0
+    },
+    {
+      "league": {},
+      "shiny_ore": 325,
+      "glowy_ore": 14,
+      "starry_ore": 0
+    },
+    {
+      "league": {},
+      "shiny_ore": 350,
+      "glowy_ore": 16,
+      "starry_ore": 0
+    },
+    {
+      "league": {},
+      "shiny_ore": 375,
+      "glowy_ore": 18,
+      "starry_ore": 0
+    },
+    {
+      "league": {},
+      "shiny_ore": 400,
+      "glowy_ore": 20,
+      "starry_ore": 0
+    },
+    {
+      "league": {},
+      "shiny_ore": 425,
+      "glowy_ore": 22,
+      "starry_ore": 0
+    },
+    {
+      "league": {},
+      "shiny_ore": 450,
+      "glowy_ore": 24,
+      "starry_ore": 0
+    },
+    {
+      "league": {},
+      "shiny_ore": 500,
+      "glowy_ore": 26,
+      "starry_ore": 0
+    },
+    {
+      "league": {},
+      "shiny_ore": 525,
+      "glowy_ore": 28,
+      "starry_ore": 0
+    },
+    {
+      "league": {},
+      "shiny_ore": 550,
+      "glowy_ore": 30,
+      "starry_ore": 0
+    },
+    {
+      "league": {},
+      "shiny_ore": 625,
+      "glowy_ore": 34,
+      "starry_ore": 0
+    },
+    {
+      "league": {},
+      "shiny_ore": 700,
+      "glowy_ore": 38,
+      "starry_ore": 0
+    },
+    {
+      "league": {},
+      "shiny_ore": 775,
+      "glowy_ore": 42,
+      "starry_ore": 0
+    },
+    {
+      "league": {},
+      "shiny_ore": 850,
+      "glowy_ore": 46,
+      "starry_ore": 0
+    },
+    {
+      "league": {},
+      "shiny_ore": 925,
+      "glowy_ore": 50,
+      "starry_ore": 0
+    },
+    {
+      "league": {},
+      "shiny_ore": 1000,
+      "glowy_ore": 54,
+      "starry_ore": 0
+    }
+  ],
+  "war": [
+    {
+      "townHall": 8,
+      "shiny_ore": 380,
+      "glowy_ore": 15,
+      "starry_ore": 0
+    },
+    {
+      "townHall": 9,
+      "shiny_ore": 410,
+      "glowy_ore": 18,
+      "starry_ore": 0
+    },
+    {
+      "townHall": 10,
+      "shiny_ore": 460,
+      "glowy_ore": 21,
+      "starry_ore": 3
+    },
+    {
+      "townHall": 11,
+      "shiny_ore": 560,
+      "glowy_ore": 24,
+      "starry_ore": 3
+    },
+    {
+      "townHall": 12,
+      "shiny_ore": 610,
+      "glowy_ore": 27,
+      "starry_ore": 4
+    },
+    {
+      "townHall": 13,
+      "shiny_ore": 710,
+      "glowy_ore": 30,
+      "starry_ore": 4
+    },
+    {
+      "townHall": 14,
+      "shiny_ore": 810,
+      "glowy_ore": 33,
+      "starry_ore": 4
+    },
+    {
+      "townHall": 15,
+      "shiny_ore": 960,
+      "glowy_ore": 36,
+      "starry_ore": 5
+    },
+    {
+      "townHall": 16,
+      "shiny_ore": 1110,
+      "glowy_ore": 39,
+      "starry_ore": 6
+    },
+    {
+      "townHall": 17,
+      "shiny_ore": 1110,
+      "glowy_ore": 39,
+      "starry_ore": 6
+    }
+  ]
+}

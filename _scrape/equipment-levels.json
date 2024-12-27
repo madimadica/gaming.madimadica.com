@@ -1,0 +1,3993 @@
+{
+  "equipment": {
+    "equipment": [
+      {
+        "hero": "Barbarian King",
+        "equipment": [
+          {
+            "url": "https://clashofclans.fandom.com/wiki/Barbarian_Puppet",
+            "img": "https://static.wikia.nocookie.net/clashofclans/images/9/96/Barbarian_Puppet.png/revision/latest/scale-to-width-down/100",
+            "name": "Barbarian Puppet",
+            "levels": [
+              {
+                "level": 1,
+                "shiny_ore": 0,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 0
+              },
+              {
+                "level": 2,
+                "shiny_ore": 120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 3,
+                "shiny_ore": 240,
+                "glowy_ore": 20,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 4,
+                "shiny_ore": 400,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 5,
+                "shiny_ore": 600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 6,
+                "shiny_ore": 840,
+                "glowy_ore": 100,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 7,
+                "shiny_ore": 1120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 8,
+                "shiny_ore": 1440,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 9,
+                "shiny_ore": 1800,
+                "glowy_ore": 200,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 10,
+                "shiny_ore": 1900,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 11,
+                "shiny_ore": 2000,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 12,
+                "shiny_ore": 2100,
+                "glowy_ore": 400,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 13,
+                "shiny_ore": 2200,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 14,
+                "shiny_ore": 2300,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 15,
+                "shiny_ore": 2400,
+                "glowy_ore": 600,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 16,
+                "shiny_ore": 2500,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 17,
+                "shiny_ore": 2600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 18,
+                "shiny_ore": 2700,
+                "glowy_ore": 600,
+                "starry_ore": 0,
+                "blacksmith": 7
+              }
+            ]
+          },
+          {
+            "url": "https://clashofclans.fandom.com/wiki/Rage_Vial",
+            "img": "https://static.wikia.nocookie.net/clashofclans/images/8/89/Rage_Vial.png/revision/latest/scale-to-width-down/100",
+            "name": "Rage Vial",
+            "levels": [
+              {
+                "level": 1,
+                "shiny_ore": 0,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 0
+              },
+              {
+                "level": 2,
+                "shiny_ore": 120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 3,
+                "shiny_ore": 240,
+                "glowy_ore": 20,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 4,
+                "shiny_ore": 400,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 5,
+                "shiny_ore": 600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 6,
+                "shiny_ore": 840,
+                "glowy_ore": 100,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 7,
+                "shiny_ore": 1120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 8,
+                "shiny_ore": 1440,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 9,
+                "shiny_ore": 1800,
+                "glowy_ore": 200,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 10,
+                "shiny_ore": 1900,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 11,
+                "shiny_ore": 2000,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 12,
+                "shiny_ore": 2100,
+                "glowy_ore": 400,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 13,
+                "shiny_ore": 2200,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 14,
+                "shiny_ore": 2300,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 15,
+                "shiny_ore": 2400,
+                "glowy_ore": 600,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 16,
+                "shiny_ore": 2500,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 17,
+                "shiny_ore": 2600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 18,
+                "shiny_ore": 2700,
+                "glowy_ore": 600,
+                "starry_ore": 0,
+                "blacksmith": 7
+              }
+            ]
+          },
+          {
+            "url": "https://clashofclans.fandom.com/wiki/Earthquake_Boots",
+            "img": "https://static.wikia.nocookie.net/clashofclans/images/4/4b/Earthquake_Boots.png/revision/latest/scale-to-width-down/100",
+            "name": "Earthquake Boots",
+            "levels": [
+              {
+                "level": 1,
+                "shiny_ore": 0,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 2,
+                "shiny_ore": 120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 3,
+                "shiny_ore": 240,
+                "glowy_ore": 20,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 4,
+                "shiny_ore": 400,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 5,
+                "shiny_ore": 600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 6,
+                "shiny_ore": 840,
+                "glowy_ore": 100,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 7,
+                "shiny_ore": 1120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 8,
+                "shiny_ore": 1440,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 9,
+                "shiny_ore": 1800,
+                "glowy_ore": 200,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 10,
+                "shiny_ore": 1900,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 11,
+                "shiny_ore": 2000,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 12,
+                "shiny_ore": 2100,
+                "glowy_ore": 400,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 13,
+                "shiny_ore": 2200,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 14,
+                "shiny_ore": 2300,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 15,
+                "shiny_ore": 2400,
+                "glowy_ore": 600,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 16,
+                "shiny_ore": 2500,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 17,
+                "shiny_ore": 2600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 18,
+                "shiny_ore": 2700,
+                "glowy_ore": 600,
+                "starry_ore": 0,
+                "blacksmith": 7
+              }
+            ]
+          },
+          {
+            "url": "https://clashofclans.fandom.com/wiki/Vampstache",
+            "img": "https://static.wikia.nocookie.net/clashofclans/images/6/6d/Vampstache.png/revision/latest/scale-to-width-down/100",
+            "name": "Vampstache",
+            "levels": [
+              {
+                "level": 1,
+                "shiny_ore": 0,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 2,
+                "shiny_ore": 120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 3,
+                "shiny_ore": 240,
+                "glowy_ore": 20,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 4,
+                "shiny_ore": 400,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 5,
+                "shiny_ore": 600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 6,
+                "shiny_ore": 840,
+                "glowy_ore": 100,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 7,
+                "shiny_ore": 1120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 8,
+                "shiny_ore": 1440,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 9,
+                "shiny_ore": 1800,
+                "glowy_ore": 200,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 10,
+                "shiny_ore": 1900,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 11,
+                "shiny_ore": 2000,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 12,
+                "shiny_ore": 2100,
+                "glowy_ore": 400,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 13,
+                "shiny_ore": 2200,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 14,
+                "shiny_ore": 2300,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 15,
+                "shiny_ore": 2400,
+                "glowy_ore": 600,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 16,
+                "shiny_ore": 2500,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 17,
+                "shiny_ore": 2600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 18,
+                "shiny_ore": 2700,
+                "glowy_ore": 600,
+                "starry_ore": 0,
+                "blacksmith": 7
+              }
+            ]
+          },
+          {
+            "url": "https://clashofclans.fandom.com/wiki/Giant_Gauntlet",
+            "img": "https://static.wikia.nocookie.net/clashofclans/images/2/27/Giant_Gauntlet.png/revision/latest/scale-to-width-down/100",
+            "name": "Giant Gauntlet",
+            "levels": [
+              {
+                "level": 1,
+                "shiny_ore": 0,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 2,
+                "shiny_ore": 120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 3,
+                "shiny_ore": 240,
+                "glowy_ore": 20,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 4,
+                "shiny_ore": 400,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 5,
+                "shiny_ore": 600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 6,
+                "shiny_ore": 840,
+                "glowy_ore": 100,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 7,
+                "shiny_ore": 1120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 8,
+                "shiny_ore": 1440,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 9,
+                "shiny_ore": 1800,
+                "glowy_ore": 200,
+                "starry_ore": 10,
+                "blacksmith": 1
+              },
+              {
+                "level": 10,
+                "shiny_ore": 1900,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 11,
+                "shiny_ore": 2000,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 12,
+                "shiny_ore": 2100,
+                "glowy_ore": 400,
+                "starry_ore": 20,
+                "blacksmith": 1
+              },
+              {
+                "level": 13,
+                "shiny_ore": 2200,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 14,
+                "shiny_ore": 2300,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 15,
+                "shiny_ore": 2400,
+                "glowy_ore": 600,
+                "starry_ore": 30,
+                "blacksmith": 3
+              },
+              {
+                "level": 16,
+                "shiny_ore": 2500,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 17,
+                "shiny_ore": 2600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 18,
+                "shiny_ore": 2700,
+                "glowy_ore": 600,
+                "starry_ore": 50,
+                "blacksmith": 5
+              },
+              {
+                "level": 19,
+                "shiny_ore": 2800,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 20,
+                "shiny_ore": 2900,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 21,
+                "shiny_ore": 3000,
+                "glowy_ore": 600,
+                "starry_ore": 100,
+                "blacksmith": 7
+              },
+              {
+                "level": 22,
+                "shiny_ore": 3100,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 8
+              },
+              {
+                "level": 23,
+                "shiny_ore": 3200,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 8
+              },
+              {
+                "level": 24,
+                "shiny_ore": 3300,
+                "glowy_ore": 600,
+                "starry_ore": 120,
+                "blacksmith": 8
+              },
+              {
+                "level": 25,
+                "shiny_ore": 3400,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 9
+              },
+              {
+                "level": 26,
+                "shiny_ore": 3500,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 9
+              },
+              {
+                "level": 27,
+                "shiny_ore": 3600,
+                "glowy_ore": 600,
+                "starry_ore": 150,
+                "blacksmith": 9
+              }
+            ]
+          },
+          {
+            "url": "https://clashofclans.fandom.com/wiki/Spiky_Ball",
+            "img": "https://static.wikia.nocookie.net/clashofclans/images/d/d9/Spiky_Ball.png/revision/latest/scale-to-width-down/100",
+            "name": "Spiky Ball",
+            "levels": [
+              {
+                "level": 1,
+                "shiny_ore": 0,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 2,
+                "shiny_ore": 120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 3,
+                "shiny_ore": 240,
+                "glowy_ore": 20,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 4,
+                "shiny_ore": 400,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 5,
+                "shiny_ore": 600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 6,
+                "shiny_ore": 840,
+                "glowy_ore": 100,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 7,
+                "shiny_ore": 1120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 8,
+                "shiny_ore": 1440,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 9,
+                "shiny_ore": 1800,
+                "glowy_ore": 200,
+                "starry_ore": 10,
+                "blacksmith": 1
+              },
+              {
+                "level": 10,
+                "shiny_ore": 1900,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 11,
+                "shiny_ore": 2000,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 12,
+                "shiny_ore": 2100,
+                "glowy_ore": 400,
+                "starry_ore": 20,
+                "blacksmith": 1
+              },
+              {
+                "level": 13,
+                "shiny_ore": 2200,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 14,
+                "shiny_ore": 2300,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 15,
+                "shiny_ore": 2400,
+                "glowy_ore": 600,
+                "starry_ore": 30,
+                "blacksmith": 3
+              },
+              {
+                "level": 16,
+                "shiny_ore": 2500,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 17,
+                "shiny_ore": 2600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 18,
+                "shiny_ore": 2700,
+                "glowy_ore": 600,
+                "starry_ore": 50,
+                "blacksmith": 5
+              },
+              {
+                "level": 19,
+                "shiny_ore": 2800,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 20,
+                "shiny_ore": 2900,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 21,
+                "shiny_ore": 3000,
+                "glowy_ore": 600,
+                "starry_ore": 100,
+                "blacksmith": 7
+              },
+              {
+                "level": 22,
+                "shiny_ore": 3100,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 8
+              },
+              {
+                "level": 23,
+                "shiny_ore": 3200,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 8
+              },
+              {
+                "level": 24,
+                "shiny_ore": 3300,
+                "glowy_ore": 600,
+                "starry_ore": 120,
+                "blacksmith": 8
+              },
+              {
+                "level": 25,
+                "shiny_ore": 3400,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 9
+              },
+              {
+                "level": 26,
+                "shiny_ore": 3500,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 9
+              },
+              {
+                "level": 27,
+                "shiny_ore": 3600,
+                "glowy_ore": 600,
+                "starry_ore": 150,
+                "blacksmith": 9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "hero": "Archer Queen",
+        "equipment": [
+          {
+            "url": "https://clashofclans.fandom.com/wiki/Archer_Puppet",
+            "img": "https://static.wikia.nocookie.net/clashofclans/images/d/d4/Archer_Puppet.png/revision/latest/scale-to-width-down/100",
+            "name": "Archer Puppet",
+            "levels": [
+              {
+                "level": 1,
+                "shiny_ore": 0,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 0
+              },
+              {
+                "level": 2,
+                "shiny_ore": 120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 3,
+                "shiny_ore": 240,
+                "glowy_ore": 20,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 4,
+                "shiny_ore": 400,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 5,
+                "shiny_ore": 600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 6,
+                "shiny_ore": 840,
+                "glowy_ore": 100,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 7,
+                "shiny_ore": 1120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 8,
+                "shiny_ore": 1440,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 9,
+                "shiny_ore": 1800,
+                "glowy_ore": 200,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 10,
+                "shiny_ore": 1900,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 11,
+                "shiny_ore": 2000,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 12,
+                "shiny_ore": 2100,
+                "glowy_ore": 400,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 13,
+                "shiny_ore": 2200,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 14,
+                "shiny_ore": 2300,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 15,
+                "shiny_ore": 2400,
+                "glowy_ore": 600,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 16,
+                "shiny_ore": 2500,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 17,
+                "shiny_ore": 2600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 18,
+                "shiny_ore": 2700,
+                "glowy_ore": 600,
+                "starry_ore": 0,
+                "blacksmith": 7
+              }
+            ]
+          },
+          {
+            "url": "https://clashofclans.fandom.com/wiki/Invisibility_Vial",
+            "img": "https://static.wikia.nocookie.net/clashofclans/images/0/08/Invisibility_Vial.png/revision/latest/scale-to-width-down/100",
+            "name": "Invisibility Vial",
+            "levels": [
+              {
+                "level": 1,
+                "shiny_ore": 0,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 0
+              },
+              {
+                "level": 2,
+                "shiny_ore": 120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 3,
+                "shiny_ore": 240,
+                "glowy_ore": 20,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 4,
+                "shiny_ore": 400,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 5,
+                "shiny_ore": 600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 6,
+                "shiny_ore": 840,
+                "glowy_ore": 100,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 7,
+                "shiny_ore": 1120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 8,
+                "shiny_ore": 1440,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 9,
+                "shiny_ore": 1800,
+                "glowy_ore": 200,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 10,
+                "shiny_ore": 1900,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 11,
+                "shiny_ore": 2000,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 12,
+                "shiny_ore": 2100,
+                "glowy_ore": 400,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 13,
+                "shiny_ore": 2200,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 14,
+                "shiny_ore": 2300,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 15,
+                "shiny_ore": 2400,
+                "glowy_ore": 600,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 16,
+                "shiny_ore": 2500,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 17,
+                "shiny_ore": 2600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 18,
+                "shiny_ore": 2700,
+                "glowy_ore": 600,
+                "starry_ore": 0,
+                "blacksmith": 7
+              }
+            ]
+          },
+          {
+            "url": "https://clashofclans.fandom.com/wiki/Giant_Arrow",
+            "img": "https://static.wikia.nocookie.net/clashofclans/images/b/bb/Giant_Arrow.png/revision/latest/scale-to-width-down/100",
+            "name": "Giant Arrow",
+            "levels": [
+              {
+                "level": 1,
+                "shiny_ore": 0,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 2
+              },
+              {
+                "level": 2,
+                "shiny_ore": 120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 2
+              },
+              {
+                "level": 3,
+                "shiny_ore": 240,
+                "glowy_ore": 20,
+                "starry_ore": 0,
+                "blacksmith": 2
+              },
+              {
+                "level": 4,
+                "shiny_ore": 400,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 2
+              },
+              {
+                "level": 5,
+                "shiny_ore": 600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 2
+              },
+              {
+                "level": 6,
+                "shiny_ore": 840,
+                "glowy_ore": 100,
+                "starry_ore": 0,
+                "blacksmith": 2
+              },
+              {
+                "level": 7,
+                "shiny_ore": 1120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 2
+              },
+              {
+                "level": 8,
+                "shiny_ore": 1440,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 2
+              },
+              {
+                "level": 9,
+                "shiny_ore": 1800,
+                "glowy_ore": 200,
+                "starry_ore": 0,
+                "blacksmith": 2
+              },
+              {
+                "level": 10,
+                "shiny_ore": 1900,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 11,
+                "shiny_ore": 2000,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 12,
+                "shiny_ore": 2100,
+                "glowy_ore": 400,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 13,
+                "shiny_ore": 2200,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 14,
+                "shiny_ore": 2300,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 15,
+                "shiny_ore": 2400,
+                "glowy_ore": 600,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 16,
+                "shiny_ore": 2500,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 17,
+                "shiny_ore": 2600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 18,
+                "shiny_ore": 2700,
+                "glowy_ore": 600,
+                "starry_ore": 0,
+                "blacksmith": 7
+              }
+            ]
+          },
+          {
+            "url": "https://clashofclans.fandom.com/wiki/Healer_Puppet",
+            "img": "https://static.wikia.nocookie.net/clashofclans/images/d/dd/Healer_Puppet.png/revision/latest/scale-to-width-down/100",
+            "name": "Healer Puppet",
+            "levels": [
+              {
+                "level": 1,
+                "shiny_ore": 0,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 2,
+                "shiny_ore": 120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 3,
+                "shiny_ore": 240,
+                "glowy_ore": 20,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 4,
+                "shiny_ore": 400,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 5,
+                "shiny_ore": 600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 6,
+                "shiny_ore": 840,
+                "glowy_ore": 100,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 7,
+                "shiny_ore": 1120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 8,
+                "shiny_ore": 1440,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 9,
+                "shiny_ore": 1800,
+                "glowy_ore": 200,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 10,
+                "shiny_ore": 1900,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 11,
+                "shiny_ore": 2000,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 12,
+                "shiny_ore": 2100,
+                "glowy_ore": 400,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 13,
+                "shiny_ore": 2200,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 14,
+                "shiny_ore": 2300,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 15,
+                "shiny_ore": 2400,
+                "glowy_ore": 600,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 16,
+                "shiny_ore": 2500,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 17,
+                "shiny_ore": 2600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 18,
+                "shiny_ore": 2700,
+                "glowy_ore": 600,
+                "starry_ore": 0,
+                "blacksmith": 7
+              }
+            ]
+          },
+          {
+            "url": "https://clashofclans.fandom.com/wiki/Frozen_Arrow",
+            "img": "https://static.wikia.nocookie.net/clashofclans/images/2/23/Frozen_Arrow.png/revision/latest/scale-to-width-down/100",
+            "name": "Frozen Arrow",
+            "levels": [
+              {
+                "level": 1,
+                "shiny_ore": 0,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 2,
+                "shiny_ore": 120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 3,
+                "shiny_ore": 240,
+                "glowy_ore": 20,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 4,
+                "shiny_ore": 400,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 5,
+                "shiny_ore": 600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 6,
+                "shiny_ore": 840,
+                "glowy_ore": 100,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 7,
+                "shiny_ore": 1120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 8,
+                "shiny_ore": 1440,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 9,
+                "shiny_ore": 1800,
+                "glowy_ore": 200,
+                "starry_ore": 10,
+                "blacksmith": 1
+              },
+              {
+                "level": 10,
+                "shiny_ore": 1900,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 11,
+                "shiny_ore": 2000,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 12,
+                "shiny_ore": 2100,
+                "glowy_ore": 400,
+                "starry_ore": 20,
+                "blacksmith": 1
+              },
+              {
+                "level": 13,
+                "shiny_ore": 2200,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 14,
+                "shiny_ore": 2300,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 15,
+                "shiny_ore": 2400,
+                "glowy_ore": 600,
+                "starry_ore": 30,
+                "blacksmith": 3
+              },
+              {
+                "level": 16,
+                "shiny_ore": 2500,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 17,
+                "shiny_ore": 2600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 18,
+                "shiny_ore": 2700,
+                "glowy_ore": 600,
+                "starry_ore": 50,
+                "blacksmith": 5
+              },
+              {
+                "level": 19,
+                "shiny_ore": 2800,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 20,
+                "shiny_ore": 2900,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 21,
+                "shiny_ore": 3000,
+                "glowy_ore": 600,
+                "starry_ore": 100,
+                "blacksmith": 7
+              },
+              {
+                "level": 22,
+                "shiny_ore": 3100,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 8
+              },
+              {
+                "level": 23,
+                "shiny_ore": 3200,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 8
+              },
+              {
+                "level": 24,
+                "shiny_ore": 3300,
+                "glowy_ore": 600,
+                "starry_ore": 120,
+                "blacksmith": 8
+              },
+              {
+                "level": 25,
+                "shiny_ore": 3400,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 9
+              },
+              {
+                "level": 26,
+                "shiny_ore": 3500,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 9
+              },
+              {
+                "level": 27,
+                "shiny_ore": 3600,
+                "glowy_ore": 600,
+                "starry_ore": 150,
+                "blacksmith": 9
+              }
+            ]
+          },
+          {
+            "url": "https://clashofclans.fandom.com/wiki/Magic_Mirror",
+            "img": "https://static.wikia.nocookie.net/clashofclans/images/1/1d/Magic_Mirror.png/revision/latest/scale-to-width-down/100",
+            "name": "Magic Mirror",
+            "levels": [
+              {
+                "level": 1,
+                "shiny_ore": 0,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 2,
+                "shiny_ore": 120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 3,
+                "shiny_ore": 240,
+                "glowy_ore": 20,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 4,
+                "shiny_ore": 400,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 5,
+                "shiny_ore": 600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 6,
+                "shiny_ore": 840,
+                "glowy_ore": 100,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 7,
+                "shiny_ore": 1120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 8,
+                "shiny_ore": 1440,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 9,
+                "shiny_ore": 1800,
+                "glowy_ore": 200,
+                "starry_ore": 10,
+                "blacksmith": 1
+              },
+              {
+                "level": 10,
+                "shiny_ore": 1900,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 11,
+                "shiny_ore": 2000,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 12,
+                "shiny_ore": 2100,
+                "glowy_ore": 400,
+                "starry_ore": 20,
+                "blacksmith": 1
+              },
+              {
+                "level": 13,
+                "shiny_ore": 2200,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 14,
+                "shiny_ore": 2300,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 15,
+                "shiny_ore": 2400,
+                "glowy_ore": 600,
+                "starry_ore": 30,
+                "blacksmith": 3
+              },
+              {
+                "level": 16,
+                "shiny_ore": 2500,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 17,
+                "shiny_ore": 2600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 18,
+                "shiny_ore": 2700,
+                "glowy_ore": 600,
+                "starry_ore": 60,
+                "blacksmith": 5
+              },
+              {
+                "level": 19,
+                "shiny_ore": 2800,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 20,
+                "shiny_ore": 2900,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 21,
+                "shiny_ore": 3000,
+                "glowy_ore": 600,
+                "starry_ore": 100,
+                "blacksmith": 7
+              },
+              {
+                "level": 22,
+                "shiny_ore": 3100,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 8
+              },
+              {
+                "level": 23,
+                "shiny_ore": 3200,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 8
+              },
+              {
+                "level": 24,
+                "shiny_ore": 3300,
+                "glowy_ore": 600,
+                "starry_ore": 120,
+                "blacksmith": 8
+              },
+              {
+                "level": 25,
+                "shiny_ore": 3400,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 9
+              },
+              {
+                "level": 26,
+                "shiny_ore": 3500,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 9
+              },
+              {
+                "level": 27,
+                "shiny_ore": 3600,
+                "glowy_ore": 600,
+                "starry_ore": 150,
+                "blacksmith": 9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "hero": "Minion Prince",
+        "equipment": [
+          {
+            "url": "https://clashofclans.fandom.com/wiki/Henchmen_Puppet",
+            "img": "https://static.wikia.nocookie.net/clashofclans/images/d/dc/Henchmen_Puppet.png/revision/latest/scale-to-width-down/100",
+            "name": "Henchmen Puppet",
+            "levels": [
+              {
+                "level": 1,
+                "shiny_ore": 0,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 2,
+                "shiny_ore": 120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 3,
+                "shiny_ore": 240,
+                "glowy_ore": 20,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 4,
+                "shiny_ore": 400,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 5,
+                "shiny_ore": 600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 6,
+                "shiny_ore": 840,
+                "glowy_ore": 100,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 7,
+                "shiny_ore": 1120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 8,
+                "shiny_ore": 1440,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 9,
+                "shiny_ore": 1800,
+                "glowy_ore": 200,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 10,
+                "shiny_ore": 1900,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 11,
+                "shiny_ore": 2000,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 12,
+                "shiny_ore": 2100,
+                "glowy_ore": 400,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 13,
+                "shiny_ore": 2200,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 14,
+                "shiny_ore": 2300,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 15,
+                "shiny_ore": 2400,
+                "glowy_ore": 600,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 16,
+                "shiny_ore": 2500,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 17,
+                "shiny_ore": 2600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 18,
+                "shiny_ore": 2700,
+                "glowy_ore": 600,
+                "starry_ore": 0,
+                "blacksmith": 7
+              }
+            ]
+          },
+          {
+            "url": "https://clashofclans.fandom.com/wiki/Dark_Orb",
+            "img": "https://static.wikia.nocookie.net/clashofclans/images/c/cc/Dark_Orb.png/revision/latest/scale-to-width-down/100",
+            "name": "Dark Orb",
+            "levels": [
+              {
+                "level": 1,
+                "shiny_ore": 0,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 2,
+                "shiny_ore": 120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 3,
+                "shiny_ore": 240,
+                "glowy_ore": 20,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 4,
+                "shiny_ore": 400,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 5,
+                "shiny_ore": 600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 6,
+                "shiny_ore": 840,
+                "glowy_ore": 100,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 7,
+                "shiny_ore": 1120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 8,
+                "shiny_ore": 1440,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 9,
+                "shiny_ore": 1800,
+                "glowy_ore": 200,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 10,
+                "shiny_ore": 1900,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 11,
+                "shiny_ore": 2000,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 12,
+                "shiny_ore": 2100,
+                "glowy_ore": 400,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 13,
+                "shiny_ore": 2200,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 14,
+                "shiny_ore": 2300,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 15,
+                "shiny_ore": 2400,
+                "glowy_ore": 600,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 16,
+                "shiny_ore": 2500,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 17,
+                "shiny_ore": 2600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 18,
+                "shiny_ore": 2700,
+                "glowy_ore": 600,
+                "starry_ore": 0,
+                "blacksmith": 7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "hero": "Grand Warden",
+        "equipment": [
+          {
+            "url": "https://clashofclans.fandom.com/wiki/Eternal_Tome",
+            "img": "https://static.wikia.nocookie.net/clashofclans/images/2/29/Eternal_Tome.png/revision/latest/scale-to-width-down/100",
+            "name": "Eternal Tome",
+            "levels": [
+              {
+                "level": 1,
+                "shiny_ore": 0,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 0
+              },
+              {
+                "level": 2,
+                "shiny_ore": 120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 3,
+                "shiny_ore": 240,
+                "glowy_ore": 20,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 4,
+                "shiny_ore": 400,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 5,
+                "shiny_ore": 600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 6,
+                "shiny_ore": 840,
+                "glowy_ore": 100,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 7,
+                "shiny_ore": 1120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 8,
+                "shiny_ore": 1440,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 9,
+                "shiny_ore": 1800,
+                "glowy_ore": 200,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 10,
+                "shiny_ore": 1900,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 11,
+                "shiny_ore": 2000,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 12,
+                "shiny_ore": 2100,
+                "glowy_ore": 400,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 13,
+                "shiny_ore": 2200,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 14,
+                "shiny_ore": 2300,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 15,
+                "shiny_ore": 2400,
+                "glowy_ore": 600,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 16,
+                "shiny_ore": 2500,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 17,
+                "shiny_ore": 2600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 18,
+                "shiny_ore": 2700,
+                "glowy_ore": 600,
+                "starry_ore": 0,
+                "blacksmith": 7
+              }
+            ]
+          },
+          {
+            "url": "https://clashofclans.fandom.com/wiki/Life_Gem",
+            "img": "https://static.wikia.nocookie.net/clashofclans/images/f/fe/Life_Gem.png/revision/latest/scale-to-width-down/100",
+            "name": "Life Gem",
+            "levels": [
+              {
+                "level": 1,
+                "shiny_ore": 0,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 0
+              },
+              {
+                "level": 2,
+                "shiny_ore": 120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 3,
+                "shiny_ore": 240,
+                "glowy_ore": 20,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 4,
+                "shiny_ore": 400,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 5,
+                "shiny_ore": 600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 6,
+                "shiny_ore": 840,
+                "glowy_ore": 100,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 7,
+                "shiny_ore": 1120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 8,
+                "shiny_ore": 1440,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 9,
+                "shiny_ore": 1800,
+                "glowy_ore": 200,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 10,
+                "shiny_ore": 1900,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 11,
+                "shiny_ore": 2000,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 12,
+                "shiny_ore": 2100,
+                "glowy_ore": 400,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 13,
+                "shiny_ore": 2200,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 14,
+                "shiny_ore": 2300,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 15,
+                "shiny_ore": 2400,
+                "glowy_ore": 600,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 16,
+                "shiny_ore": 2500,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 17,
+                "shiny_ore": 2600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 18,
+                "shiny_ore": 2700,
+                "glowy_ore": 600,
+                "starry_ore": 0,
+                "blacksmith": 7
+              }
+            ]
+          },
+          {
+            "url": "https://clashofclans.fandom.com/wiki/Rage_Gem",
+            "img": "https://static.wikia.nocookie.net/clashofclans/images/8/8f/Rage_Gem.png/revision/latest/scale-to-width-down/100",
+            "name": "Rage Gem",
+            "levels": [
+              {
+                "level": 1,
+                "shiny_ore": 0,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 4
+              },
+              {
+                "level": 2,
+                "shiny_ore": 120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 4
+              },
+              {
+                "level": 3,
+                "shiny_ore": 240,
+                "glowy_ore": 20,
+                "starry_ore": 0,
+                "blacksmith": 4
+              },
+              {
+                "level": 4,
+                "shiny_ore": 400,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 4
+              },
+              {
+                "level": 5,
+                "shiny_ore": 600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 4
+              },
+              {
+                "level": 6,
+                "shiny_ore": 840,
+                "glowy_ore": 100,
+                "starry_ore": 0,
+                "blacksmith": 4
+              },
+              {
+                "level": 7,
+                "shiny_ore": 1120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 4
+              },
+              {
+                "level": 8,
+                "shiny_ore": 1440,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 4
+              },
+              {
+                "level": 9,
+                "shiny_ore": 1800,
+                "glowy_ore": 200,
+                "starry_ore": 0,
+                "blacksmith": 4
+              },
+              {
+                "level": 10,
+                "shiny_ore": 1900,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 4
+              },
+              {
+                "level": 11,
+                "shiny_ore": 2000,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 4
+              },
+              {
+                "level": 12,
+                "shiny_ore": 2100,
+                "glowy_ore": 400,
+                "starry_ore": 0,
+                "blacksmith": 4
+              },
+              {
+                "level": 13,
+                "shiny_ore": 2200,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 14,
+                "shiny_ore": 2300,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 15,
+                "shiny_ore": 2400,
+                "glowy_ore": 600,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 16,
+                "shiny_ore": 2500,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 17,
+                "shiny_ore": 2600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 18,
+                "shiny_ore": 2700,
+                "glowy_ore": 600,
+                "starry_ore": 0,
+                "blacksmith": 7
+              }
+            ]
+          },
+          {
+            "url": "https://clashofclans.fandom.com/wiki/Healing_Tome",
+            "img": "https://static.wikia.nocookie.net/clashofclans/images/5/5e/Healing_Tome.png/revision/latest/scale-to-width-down/100",
+            "name": "Healing Tome",
+            "levels": [
+              {
+                "level": 1,
+                "shiny_ore": 0,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 6
+              },
+              {
+                "level": 2,
+                "shiny_ore": 120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 6
+              },
+              {
+                "level": 3,
+                "shiny_ore": 240,
+                "glowy_ore": 20,
+                "starry_ore": 0,
+                "blacksmith": 6
+              },
+              {
+                "level": 4,
+                "shiny_ore": 400,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 6
+              },
+              {
+                "level": 5,
+                "shiny_ore": 600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 6
+              },
+              {
+                "level": 6,
+                "shiny_ore": 840,
+                "glowy_ore": 100,
+                "starry_ore": 0,
+                "blacksmith": 6
+              },
+              {
+                "level": 7,
+                "shiny_ore": 1120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 6
+              },
+              {
+                "level": 8,
+                "shiny_ore": 1440,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 6
+              },
+              {
+                "level": 9,
+                "shiny_ore": 1800,
+                "glowy_ore": 200,
+                "starry_ore": 0,
+                "blacksmith": 6
+              },
+              {
+                "level": 10,
+                "shiny_ore": 1900,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 6
+              },
+              {
+                "level": 11,
+                "shiny_ore": 2000,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 6
+              },
+              {
+                "level": 12,
+                "shiny_ore": 2100,
+                "glowy_ore": 400,
+                "starry_ore": 0,
+                "blacksmith": 6
+              },
+              {
+                "level": 13,
+                "shiny_ore": 2200,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 6
+              },
+              {
+                "level": 14,
+                "shiny_ore": 2300,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 6
+              },
+              {
+                "level": 15,
+                "shiny_ore": 2400,
+                "glowy_ore": 600,
+                "starry_ore": 0,
+                "blacksmith": 6
+              },
+              {
+                "level": 16,
+                "shiny_ore": 2500,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 17,
+                "shiny_ore": 2600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 18,
+                "shiny_ore": 2700,
+                "glowy_ore": 600,
+                "starry_ore": 0,
+                "blacksmith": 7
+              }
+            ]
+          },
+          {
+            "url": "https://clashofclans.fandom.com/wiki/Fireball",
+            "img": "https://static.wikia.nocookie.net/clashofclans/images/4/49/Fireball_Equipment.png/revision/latest/scale-to-width-down/100",
+            "name": "Fireball",
+            "levels": [
+              {
+                "level": 1,
+                "shiny_ore": 0,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 2,
+                "shiny_ore": 120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 3,
+                "shiny_ore": 240,
+                "glowy_ore": 20,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 4,
+                "shiny_ore": 400,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 5,
+                "shiny_ore": 600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 6,
+                "shiny_ore": 840,
+                "glowy_ore": 100,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 7,
+                "shiny_ore": 1120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 8,
+                "shiny_ore": 1440,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 9,
+                "shiny_ore": 1800,
+                "glowy_ore": 200,
+                "starry_ore": 10,
+                "blacksmith": 1
+              },
+              {
+                "level": 10,
+                "shiny_ore": 1900,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 11,
+                "shiny_ore": 2000,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 12,
+                "shiny_ore": 2100,
+                "glowy_ore": 400,
+                "starry_ore": 20,
+                "blacksmith": 1
+              },
+              {
+                "level": 13,
+                "shiny_ore": 2200,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 14,
+                "shiny_ore": 2300,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 15,
+                "shiny_ore": 2400,
+                "glowy_ore": 600,
+                "starry_ore": 30,
+                "blacksmith": 3
+              },
+              {
+                "level": 16,
+                "shiny_ore": 2500,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 17,
+                "shiny_ore": 2600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 18,
+                "shiny_ore": 2700,
+                "glowy_ore": 600,
+                "starry_ore": 50,
+                "blacksmith": 5
+              },
+              {
+                "level": 19,
+                "shiny_ore": 2800,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 20,
+                "shiny_ore": 2900,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 21,
+                "shiny_ore": 3000,
+                "glowy_ore": 600,
+                "starry_ore": 100,
+                "blacksmith": 7
+              },
+              {
+                "level": 22,
+                "shiny_ore": 3100,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 8
+              },
+              {
+                "level": 23,
+                "shiny_ore": 3200,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 8
+              },
+              {
+                "level": 24,
+                "shiny_ore": 3300,
+                "glowy_ore": 600,
+                "starry_ore": 120,
+                "blacksmith": 8
+              },
+              {
+                "level": 25,
+                "shiny_ore": 3400,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 9
+              },
+              {
+                "level": 26,
+                "shiny_ore": 3500,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 9
+              },
+              {
+                "level": 27,
+                "shiny_ore": 3600,
+                "glowy_ore": 600,
+                "starry_ore": 150,
+                "blacksmith": 9
+              }
+            ]
+          },
+          {
+            "url": "https://clashofclans.fandom.com/wiki/Lavaloon_Puppet",
+            "img": "https://static.wikia.nocookie.net/clashofclans/images/b/b6/Lavaloon_Puppet.png/revision/latest/scale-to-width-down/100",
+            "name": "Lavaloon Puppet",
+            "levels": [
+              {
+                "level": 1,
+                "shiny_ore": 0,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 2,
+                "shiny_ore": 120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 3,
+                "shiny_ore": 240,
+                "glowy_ore": 20,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 4,
+                "shiny_ore": 400,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 5,
+                "shiny_ore": 600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 6,
+                "shiny_ore": 840,
+                "glowy_ore": 100,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 7,
+                "shiny_ore": 1120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 8,
+                "shiny_ore": 1440,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 9,
+                "shiny_ore": 1800,
+                "glowy_ore": 200,
+                "starry_ore": 10,
+                "blacksmith": 1
+              },
+              {
+                "level": 10,
+                "shiny_ore": 1900,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 11,
+                "shiny_ore": 2000,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 12,
+                "shiny_ore": 2100,
+                "glowy_ore": 400,
+                "starry_ore": 20,
+                "blacksmith": 1
+              },
+              {
+                "level": 13,
+                "shiny_ore": 2200,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 14,
+                "shiny_ore": 2300,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 15,
+                "shiny_ore": 2400,
+                "glowy_ore": 600,
+                "starry_ore": 30,
+                "blacksmith": 3
+              },
+              {
+                "level": 16,
+                "shiny_ore": 2500,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 17,
+                "shiny_ore": 2600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 18,
+                "shiny_ore": 2700,
+                "glowy_ore": 600,
+                "starry_ore": 50,
+                "blacksmith": 5
+              },
+              {
+                "level": 19,
+                "shiny_ore": 2800,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 20,
+                "shiny_ore": 2900,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 21,
+                "shiny_ore": 3000,
+                "glowy_ore": 600,
+                "starry_ore": 100,
+                "blacksmith": 7
+              },
+              {
+                "level": 22,
+                "shiny_ore": 3100,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 8
+              },
+              {
+                "level": 23,
+                "shiny_ore": 3200,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 8
+              },
+              {
+                "level": 24,
+                "shiny_ore": 3300,
+                "glowy_ore": 600,
+                "starry_ore": 120,
+                "blacksmith": 8
+              },
+              {
+                "level": 25,
+                "shiny_ore": 3400,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 9
+              },
+              {
+                "level": 26,
+                "shiny_ore": 3500,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 9
+              },
+              {
+                "level": 27,
+                "shiny_ore": 3600,
+                "glowy_ore": 600,
+                "starry_ore": 150,
+                "blacksmith": 9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "hero": "Royal Champion",
+        "equipment": [
+          {
+            "url": "https://clashofclans.fandom.com/wiki/Royal_Gem",
+            "img": "https://static.wikia.nocookie.net/clashofclans/images/b/b9/Royal_Gem.png/revision/latest/scale-to-width-down/100",
+            "name": "Royal Gem",
+            "levels": [
+              {
+                "level": 1,
+                "shiny_ore": 0,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 0
+              },
+              {
+                "level": 2,
+                "shiny_ore": 120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 3,
+                "shiny_ore": 240,
+                "glowy_ore": 20,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 4,
+                "shiny_ore": 400,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 5,
+                "shiny_ore": 600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 6,
+                "shiny_ore": 840,
+                "glowy_ore": 100,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 7,
+                "shiny_ore": 1120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 8,
+                "shiny_ore": 1440,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 9,
+                "shiny_ore": 1800,
+                "glowy_ore": 200,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 10,
+                "shiny_ore": 1900,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 11,
+                "shiny_ore": 2000,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 12,
+                "shiny_ore": 2100,
+                "glowy_ore": 400,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 13,
+                "shiny_ore": 2200,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 14,
+                "shiny_ore": 2300,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 15,
+                "shiny_ore": 2400,
+                "glowy_ore": 600,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 16,
+                "shiny_ore": 2500,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 17,
+                "shiny_ore": 2600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 18,
+                "shiny_ore": 2700,
+                "glowy_ore": 600,
+                "starry_ore": 0,
+                "blacksmith": 7
+              }
+            ]
+          },
+          {
+            "url": "https://clashofclans.fandom.com/wiki/Seeking_Shield",
+            "img": "https://static.wikia.nocookie.net/clashofclans/images/3/36/Seeking_Shield.png/revision/latest/scale-to-width-down/100",
+            "name": "Seeking Shield",
+            "levels": [
+              {
+                "level": 1,
+                "shiny_ore": 0,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 0
+              },
+              {
+                "level": 2,
+                "shiny_ore": 120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 3,
+                "shiny_ore": 240,
+                "glowy_ore": 20,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 4,
+                "shiny_ore": 400,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 5,
+                "shiny_ore": 600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 6,
+                "shiny_ore": 840,
+                "glowy_ore": 100,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 7,
+                "shiny_ore": 1120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 8,
+                "shiny_ore": 1440,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 9,
+                "shiny_ore": 1800,
+                "glowy_ore": 200,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 10,
+                "shiny_ore": 1900,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 11,
+                "shiny_ore": 2000,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 12,
+                "shiny_ore": 2100,
+                "glowy_ore": 400,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 13,
+                "shiny_ore": 2200,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 14,
+                "shiny_ore": 2300,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 15,
+                "shiny_ore": 2400,
+                "glowy_ore": 600,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 16,
+                "shiny_ore": 2500,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 17,
+                "shiny_ore": 2600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 18,
+                "shiny_ore": 2700,
+                "glowy_ore": 600,
+                "starry_ore": 0,
+                "blacksmith": 7
+              }
+            ]
+          },
+          {
+            "url": "https://clashofclans.fandom.com/wiki/Hog_Rider_Puppet",
+            "img": "https://static.wikia.nocookie.net/clashofclans/images/3/32/Hog_Rider_Puppet.png/revision/latest/scale-to-width-down/100",
+            "name": "Hog Rider Puppet",
+            "levels": [
+              {
+                "level": 1,
+                "shiny_ore": 0,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 2,
+                "shiny_ore": 120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 3,
+                "shiny_ore": 240,
+                "glowy_ore": 20,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 4,
+                "shiny_ore": 400,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 5,
+                "shiny_ore": 600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 6,
+                "shiny_ore": 840,
+                "glowy_ore": 100,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 7,
+                "shiny_ore": 1120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 8,
+                "shiny_ore": 1440,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 9,
+                "shiny_ore": 1800,
+                "glowy_ore": 200,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 10,
+                "shiny_ore": 1900,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 11,
+                "shiny_ore": 2000,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 12,
+                "shiny_ore": 2100,
+                "glowy_ore": 400,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 13,
+                "shiny_ore": 2200,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 14,
+                "shiny_ore": 2300,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 15,
+                "shiny_ore": 2400,
+                "glowy_ore": 600,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 16,
+                "shiny_ore": 2500,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 17,
+                "shiny_ore": 2600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 18,
+                "shiny_ore": 2700,
+                "glowy_ore": 600,
+                "starry_ore": 0,
+                "blacksmith": 7
+              }
+            ]
+          },
+          {
+            "url": "https://clashofclans.fandom.com/wiki/Haste_Vial",
+            "img": "https://static.wikia.nocookie.net/clashofclans/images/b/b1/Haste_Vial.png/revision/latest/scale-to-width-down/100",
+            "name": "Haste Vial",
+            "levels": [
+              {
+                "level": 1,
+                "shiny_ore": 0,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 8
+              },
+              {
+                "level": 2,
+                "shiny_ore": 120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 8
+              },
+              {
+                "level": 3,
+                "shiny_ore": 240,
+                "glowy_ore": 20,
+                "starry_ore": 0,
+                "blacksmith": 8
+              },
+              {
+                "level": 4,
+                "shiny_ore": 400,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 8
+              },
+              {
+                "level": 5,
+                "shiny_ore": 600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 8
+              },
+              {
+                "level": 6,
+                "shiny_ore": 840,
+                "glowy_ore": 100,
+                "starry_ore": 0,
+                "blacksmith": 8
+              },
+              {
+                "level": 7,
+                "shiny_ore": 1120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 8
+              },
+              {
+                "level": 8,
+                "shiny_ore": 1440,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 8
+              },
+              {
+                "level": 9,
+                "shiny_ore": 1800,
+                "glowy_ore": 200,
+                "starry_ore": 0,
+                "blacksmith": 8
+              },
+              {
+                "level": 10,
+                "shiny_ore": 1900,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 8
+              },
+              {
+                "level": 11,
+                "shiny_ore": 2000,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 8
+              },
+              {
+                "level": 12,
+                "shiny_ore": 2100,
+                "glowy_ore": 400,
+                "starry_ore": 0,
+                "blacksmith": 8
+              },
+              {
+                "level": 13,
+                "shiny_ore": 2200,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 8
+              },
+              {
+                "level": 14,
+                "shiny_ore": 2300,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 8
+              },
+              {
+                "level": 15,
+                "shiny_ore": 2400,
+                "glowy_ore": 600,
+                "starry_ore": 0,
+                "blacksmith": 8
+              },
+              {
+                "level": 16,
+                "shiny_ore": 2500,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 8
+              },
+              {
+                "level": 17,
+                "shiny_ore": 2600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 8
+              },
+              {
+                "level": 18,
+                "shiny_ore": 2700,
+                "glowy_ore": 600,
+                "starry_ore": 0,
+                "blacksmith": 8
+              }
+            ]
+          },
+          {
+            "url": "https://clashofclans.fandom.com/wiki/Rocket_Spear",
+            "img": "https://static.wikia.nocookie.net/clashofclans/images/0/00/Rocket_Spear.png/revision/latest/scale-to-width-down/100",
+            "name": "Rocket Spear",
+            "levels": [
+              {
+                "level": 1,
+                "shiny_ore": 0,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 2,
+                "shiny_ore": 120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 3,
+                "shiny_ore": 240,
+                "glowy_ore": 20,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 4,
+                "shiny_ore": 400,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 5,
+                "shiny_ore": 600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 6,
+                "shiny_ore": 840,
+                "glowy_ore": 100,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 7,
+                "shiny_ore": 1120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 8,
+                "shiny_ore": 1440,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 9,
+                "shiny_ore": 1800,
+                "glowy_ore": 200,
+                "starry_ore": 10,
+                "blacksmith": 1
+              },
+              {
+                "level": 10,
+                "shiny_ore": 1900,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 11,
+                "shiny_ore": 2000,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 12,
+                "shiny_ore": 2100,
+                "glowy_ore": 400,
+                "starry_ore": 20,
+                "blacksmith": 1
+              },
+              {
+                "level": 13,
+                "shiny_ore": 2200,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 14,
+                "shiny_ore": 2300,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 15,
+                "shiny_ore": 2400,
+                "glowy_ore": 600,
+                "starry_ore": 30,
+                "blacksmith": 3
+              },
+              {
+                "level": 16,
+                "shiny_ore": 2500,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 17,
+                "shiny_ore": 2600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 18,
+                "shiny_ore": 2700,
+                "glowy_ore": 600,
+                "starry_ore": 50,
+                "blacksmith": 5
+              },
+              {
+                "level": 19,
+                "shiny_ore": 2800,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 20,
+                "shiny_ore": 2900,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 21,
+                "shiny_ore": 3000,
+                "glowy_ore": 600,
+                "starry_ore": 100,
+                "blacksmith": 7
+              },
+              {
+                "level": 22,
+                "shiny_ore": 3100,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 8
+              },
+              {
+                "level": 23,
+                "shiny_ore": 3200,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 8
+              },
+              {
+                "level": 24,
+                "shiny_ore": 3300,
+                "glowy_ore": 600,
+                "starry_ore": 120,
+                "blacksmith": 8
+              },
+              {
+                "level": 25,
+                "shiny_ore": 3400,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 9
+              },
+              {
+                "level": 26,
+                "shiny_ore": 3500,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 9
+              },
+              {
+                "level": 27,
+                "shiny_ore": 3600,
+                "glowy_ore": 600,
+                "starry_ore": 150,
+                "blacksmith": 9
+              }
+            ]
+          },
+          {
+            "url": "https://clashofclans.fandom.com/wiki/Electro_Boots",
+            "img": "https://static.wikia.nocookie.net/clashofclans/images/e/ed/Electro_Boots.png/revision/latest/scale-to-width-down/100",
+            "name": "Electro Boots",
+            "levels": [
+              {
+                "level": 1,
+                "shiny_ore": 0,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 2,
+                "shiny_ore": 120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 3,
+                "shiny_ore": 240,
+                "glowy_ore": 20,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 4,
+                "shiny_ore": 400,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 5,
+                "shiny_ore": 600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 6,
+                "shiny_ore": 840,
+                "glowy_ore": 100,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 7,
+                "shiny_ore": 1120,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 8,
+                "shiny_ore": 1440,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 9,
+                "shiny_ore": 1800,
+                "glowy_ore": 200,
+                "starry_ore": 10,
+                "blacksmith": 1
+              },
+              {
+                "level": 10,
+                "shiny_ore": 1900,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 11,
+                "shiny_ore": 2000,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 1
+              },
+              {
+                "level": 12,
+                "shiny_ore": 2100,
+                "glowy_ore": 400,
+                "starry_ore": 20,
+                "blacksmith": 1
+              },
+              {
+                "level": 13,
+                "shiny_ore": 2200,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 14,
+                "shiny_ore": 2300,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 3
+              },
+              {
+                "level": 15,
+                "shiny_ore": 2400,
+                "glowy_ore": 600,
+                "starry_ore": 30,
+                "blacksmith": 3
+              },
+              {
+                "level": 16,
+                "shiny_ore": 2500,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 17,
+                "shiny_ore": 2600,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 5
+              },
+              {
+                "level": 18,
+                "shiny_ore": 2700,
+                "glowy_ore": 600,
+                "starry_ore": 50,
+                "blacksmith": 5
+              },
+              {
+                "level": 19,
+                "shiny_ore": 2800,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 20,
+                "shiny_ore": 2900,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 7
+              },
+              {
+                "level": 21,
+                "shiny_ore": 3000,
+                "glowy_ore": 600,
+                "starry_ore": 100,
+                "blacksmith": 7
+              },
+              {
+                "level": 22,
+                "shiny_ore": 3100,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 8
+              },
+              {
+                "level": 23,
+                "shiny_ore": 3200,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 8
+              },
+              {
+                "level": 24,
+                "shiny_ore": 3300,
+                "glowy_ore": 600,
+                "starry_ore": 120,
+                "blacksmith": 8
+              },
+              {
+                "level": 25,
+                "shiny_ore": 3400,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 9
+              },
+              {
+                "level": 26,
+                "shiny_ore": 3500,
+                "glowy_ore": 0,
+                "starry_ore": 0,
+                "blacksmith": 9
+              },
+              {
+                "level": 27,
+                "shiny_ore": 3600,
+                "glowy_ore": 600,
+                "starry_ore": 150,
+                "blacksmith": 9
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

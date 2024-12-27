@@ -1,0 +1,159 @@
+{
+  "equipment": [
+    {
+      "hero": "Barbarian King",
+      "equipment": [
+        {
+          "url": "https://clashofclans.fandom.com/wiki/Barbarian_Puppet",
+          "img": "https://static.wikia.nocookie.net/clashofclans/images/9/96/Barbarian_Puppet.png/revision/latest/scale-to-width-down/100",
+          "name": "Barbarian Puppet"
+        },
+        {
+          "url": "https://clashofclans.fandom.com/wiki/Rage_Vial",
+          "img": "https://static.wikia.nocookie.net/clashofclans/images/8/89/Rage_Vial.png/revision/latest/scale-to-width-down/100",
+          "name": "Rage Vial"
+        },
+        {
+          "url": "https://clashofclans.fandom.com/wiki/Earthquake_Boots",
+          "img": "https://static.wikia.nocookie.net/clashofclans/images/4/4b/Earthquake_Boots.png/revision/latest/scale-to-width-down/100",
+          "name": "Earthquake Boots"
+        },
+        {
+          "url": "https://clashofclans.fandom.com/wiki/Vampstache",
+          "img": "https://static.wikia.nocookie.net/clashofclans/images/6/6d/Vampstache.png/revision/latest/scale-to-width-down/100",
+          "name": "Vampstache"
+        },
+        {
+          "url": "https://clashofclans.fandom.com/wiki/Giant_Gauntlet",
+          "img": "https://static.wikia.nocookie.net/clashofclans/images/2/27/Giant_Gauntlet.png/revision/latest/scale-to-width-down/100",
+          "name": "Giant Gauntlet"
+        },
+        {
+          "url": "https://clashofclans.fandom.com/wiki/Spiky_Ball",
+          "img": "https://static.wikia.nocookie.net/clashofclans/images/d/d9/Spiky_Ball.png/revision/latest/scale-to-width-down/100",
+          "name": "Spiky Ball"
+        }
+      ]
+    },
+    {
+      "hero": "Archer Queen",
+      "equipment": [
+        {
+          "url": "https://clashofclans.fandom.com/wiki/Archer_Puppet",
+          "img": "https://static.wikia.nocookie.net/clashofclans/images/d/d4/Archer_Puppet.png/revision/latest/scale-to-width-down/100",
+          "name": "Archer Puppet"
+        },
+        {
+          "url": "https://clashofclans.fandom.com/wiki/Invisibility_Vial",
+          "img": "https://static.wikia.nocookie.net/clashofclans/images/0/08/Invisibility_Vial.png/revision/latest/scale-to-width-down/100",
+          "name": "Invisibility Vial"
+        },
+        {
+          "url": "https://clashofclans.fandom.com/wiki/Giant_Arrow",
+          "img": "https://static.wikia.nocookie.net/clashofclans/images/b/bb/Giant_Arrow.png/revision/latest/scale-to-width-down/100",
+          "name": "Giant Arrow"
+        },
+        {
+          "url": "https://clashofclans.fandom.com/wiki/Healer_Puppet",
+          "img": "https://static.wikia.nocookie.net/clashofclans/images/d/dd/Healer_Puppet.png/revision/latest/scale-to-width-down/100",
+          "name": "Healer Puppet"
+        },
+        {
+          "url": "https://clashofclans.fandom.com/wiki/Frozen_Arrow",
+          "img": "https://static.wikia.nocookie.net/clashofclans/images/2/23/Frozen_Arrow.png/revision/latest/scale-to-width-down/100",
+          "name": "Frozen Arrow"
+        },
+        {
+          "url": "https://clashofclans.fandom.com/wiki/Magic_Mirror",
+          "img": "https://static.wikia.nocookie.net/clashofclans/images/1/1d/Magic_Mirror.png/revision/latest/scale-to-width-down/100",
+          "name": "Magic Mirror"
+        }
+      ]
+    },
+    {
+      "hero": "Minion Prince",
+      "equipment": [
+        {
+          "url": "https://clashofclans.fandom.com/wiki/Henchmen_Puppet",
+          "img": "https://static.wikia.nocookie.net/clashofclans/images/d/dc/Henchmen_Puppet.png/revision/latest/scale-to-width-down/100",
+          "name": "Henchmen Puppet"
+        },
+        {
+          "url": "https://clashofclans.fandom.com/wiki/Dark_Orb",
+          "img": "https://static.wikia.nocookie.net/clashofclans/images/c/cc/Dark_Orb.png/revision/latest/scale-to-width-down/100",
+          "name": "Dark Orb"
+        }
+      ]
+    },
+    {
+      "hero": "Grand Warden",
+      "equipment": [
+        {
+          "url": "https://clashofclans.fandom.com/wiki/Eternal_Tome",
+          "img": "https://static.wikia.nocookie.net/clashofclans/images/2/29/Eternal_Tome.png/revision/latest/scale-to-width-down/100",
+          "name": "Eternal Tome"
+        },
+        {
+          "url": "https://clashofclans.fandom.com/wiki/Life_Gem",
+          "img": "https://static.wikia.nocookie.net/clashofclans/images/f/fe/Life_Gem.png/revision/latest/scale-to-width-down/100",
+          "name": "Life Gem"
+        },
+        {
+          "url": "https://clashofclans.fandom.com/wiki/Rage_Gem",
+          "img": "https://static.wikia.nocookie.net/clashofclans/images/8/8f/Rage_Gem.png/revision/latest/scale-to-width-down/100",
+          "name": "Rage Gem"
+        },
+        {
+          "url": "https://clashofclans.fandom.com/wiki/Healing_Tome",
+          "img": "https://static.wikia.nocookie.net/clashofclans/images/5/5e/Healing_Tome.png/revision/latest/scale-to-width-down/100",
+          "name": "Healing Tome"
+        },
+        {
+          "url": "https://clashofclans.fandom.com/wiki/Fireball",
+          "img": "https://static.wikia.nocookie.net/clashofclans/images/4/49/Fireball_Equipment.png/revision/latest/scale-to-width-down/100",
+          "name": "Fireball"
+        },
+        {
+          "url": "https://clashofclans.fandom.com/wiki/Lavaloon_Puppet",
+          "img": "https://static.wikia.nocookie.net/clashofclans/images/b/b6/Lavaloon_Puppet.png/revision/latest/scale-to-width-down/100",
+          "name": "Lavaloon Puppet"
+        }
+      ]
+    },
+    {
+      "hero": "Royal Champion",
+      "equipment": [
+        {
+          "url": "https://clashofclans.fandom.com/wiki/Royal_Gem",
+          "img": "https://static.wikia.nocookie.net/clashofclans/images/b/b9/Royal_Gem.png/revision/latest/scale-to-width-down/100",
+          "name": "Royal Gem"
+        },
+        {
+          "url": "https://clashofclans.fandom.com/wiki/Seeking_Shield",
+          "img": "https://static.wikia.nocookie.net/clashofclans/images/3/36/Seeking_Shield.png/revision/latest/scale-to-width-down/100",
+          "name": "Seeking Shield"
+        },
+        {
+          "url": "https://clashofclans.fandom.com/wiki/Hog_Rider_Puppet",
+          "img": "https://static.wikia.nocookie.net/clashofclans/images/3/32/Hog_Rider_Puppet.png/revision/latest/scale-to-width-down/100",
+          "name": "Hog Rider Puppet"
+        },
+        {
+          "url": "https://clashofclans.fandom.com/wiki/Haste_Vial",
+          "img": "https://static.wikia.nocookie.net/clashofclans/images/b/b1/Haste_Vial.png/revision/latest/scale-to-width-down/100",
+          "name": "Haste Vial"
+        },
+        {
+          "url": "https://clashofclans.fandom.com/wiki/Rocket_Spear",
+          "img": "https://static.wikia.nocookie.net/clashofclans/images/0/00/Rocket_Spear.png/revision/latest/scale-to-width-down/100",
+          "name": "Rocket Spear"
+        },
+        {
+          "url": "https://clashofclans.fandom.com/wiki/Electro_Boots",
+          "img": "https://static.wikia.nocookie.net/clashofclans/images/e/ed/Electro_Boots.png/revision/latest/scale-to-width-down/100",
+          "name": "Electro Boots"
+        }
+      ]
+    }
+  ]
+}
