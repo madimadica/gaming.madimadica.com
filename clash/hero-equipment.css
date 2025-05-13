@@ -1,0 +1,55 @@
+.split-pane {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+}
+
+.left-column {
+    border-right: 1px solid #444;
+    width: 20rem;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.ore-list {
+    margin-top: 0.5rem;
+}
+
+.left-section {
+    border-bottom: 1px solid #444;
+    padding: 1rem;
+}
+
+.flex-even {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.flex-row {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.flex-even > * {
+    flex-basis: 0;
+    flex-grow: 1;
+}
+
+
+.right-column {
+    width: 100%;
+}
+
+.hero-equipment-wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.hero-equipment-levels {
+    
+}
