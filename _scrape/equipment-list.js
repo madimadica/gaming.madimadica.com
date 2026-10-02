@@ -10,7 +10,6 @@ const fs = require("fs");
 
 const URL_ORE_LIST = "https://clashofclans.fandom.com/wiki/Hero_Equipment";
 
-
 async function fetchEquipmentList() {
     const response = await fetch(URL_ORE_LIST);
     const responseHtml = await response.text();
@@ -52,9 +51,9 @@ async function fetchEquipmentList() {
         "equipment": allHeroEquipmentJson
     };
 }
-//
-// fetchEquipmentList().then(data =>
-//     fs.writeFileSync("./../_scrape/equipment-list.json", JSON.stringify(data, null, 2), "utf-8")
-// );
-//
+
+fetchEquipmentList().then(data =>
+    fs.writeFileSync("./../_scrape/equipment-list2.json", JSON.stringify(data, null, 2), "utf-8")
+);
+
 
